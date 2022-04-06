@@ -108,8 +108,8 @@ body {
 .gallery{
     height: auto;
     background-color: #FFFFCC;
+    margin-bottom: -150px;
     padding-top: 100px;
-    padding-bottom: 5px;
 }
 .gallery-title{
     text-align: center;
@@ -119,6 +119,11 @@ body {
     height: 300px;
     margin-right: auto;
     margin-left: auto;
+}
+.image-gallery{
+    text-align: center;
+    position: relative;
+    bottom: 250px;
 }
 
 footer {
