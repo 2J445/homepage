@@ -137,9 +137,14 @@ body {
 }
 
 footer {
-  padding: 30px 0;
+  width: 100%;
+  padding: 50px;
+  margin-bottom: 0;
+  margin-top: auto;
   background-color: #fafaf3;
   text-align: center;
+  position: relative;
+  top: 50px
 }
 
 /*スライドショー*/
