@@ -9,8 +9,17 @@ body {
 
 .wrapper{
         overflow: hidden;
+        animation-name: fade;
+        animation-duration: 5s;
     }
-
+@keyframes fade{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
 
 /*イメージビデオの箇所*/
 .top__bg{
