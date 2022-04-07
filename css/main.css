@@ -137,10 +137,11 @@ body {
 }
 
 footer {
-  margin: 0;
   padding: 32px 0;
   background-color: #fafaf3;
   text-align: center;
+  position: relative;
+  top: 3px;
 }
 
 /*スライドショー*/
