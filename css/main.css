@@ -4,6 +4,7 @@ body {
   color: #000;
   background-color: #fff;
   font-family: 'Droid Serif', YuGothic, '游ゴシック', sans-serif;
+  cursor:url(../img/cursor.png), pointer;
 }
 
 .wrapper{
